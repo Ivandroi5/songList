@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicTop</string>
+    <string name="if_i_ever_feel_better_phoenix">If I Ever Feel Better - Phoenix</string>
+    <string name="_1">1</string>
+    <string name="flecha_para_ver_el_link_de_la_canci_n">Flecha para ver el link de la canción</string>
+    <string name="no_songs_available">No songs available</string>
+    <string name="song_artist">Song-Artist</string>
+    <string name="number">Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
